@@ -1,2 +1,2 @@
 # hello-world
-Just get start
+Just get started.
